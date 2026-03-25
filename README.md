@@ -1,4 +1,4 @@
-# 🧠 EEG Signal Acquisition and Analysis Project
+# EEG Signal Acquisition and Analysis Project
 
 ## Overview
 
