@@ -1,7 +1,3 @@
-# Create the README.md file using pypandoc as required
-import pypandoc
-
-content = """
 # EEG Signal Acquisition and Analysis Project
 
 ## Overview
@@ -203,9 +199,4 @@ This classic review discusses the design and performance of dry EEG electrodes, 
 
 **Summary:**  
 The paper introduces a wearable EEG system integrated with AI that allows continuous monitoring of brain signals for adaptive human-machine interaction.
-"""
 
-output_path = "/mnt/data/EEG_Signal_Acquisition_Literature_Review.md"
-pypandoc.convert_text(content, "md", format="md", outputfile=output_path, extra_args=["--standalone"])
-
-output_path
