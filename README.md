@@ -200,3 +200,14 @@ This classic review discusses the design and performance of dry EEG electrodes, 
 **Summary:**  
 The paper introduces a wearable EEG system integrated with AI that allows continuous monitoring of brain signals for adaptive human-machine interaction.
 
+## Work To Be Done
+
+- [ ] Obtain EEG signal **informed consent forms** following **ICMR guidelines**, signed by **129 student participants**.
+
+- [ ] Design the **EEG signal acquisition experimental setup**, including:
+  - Equipment configuration
+  - Electrode placement
+  - Recording protocol
+  - Data storage procedure
+
+- [ ] Develop **questions and test-case scenarios** for participants to evaluate EEG responses under different conditions.
