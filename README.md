@@ -6,6 +6,19 @@ The project focuses on collecting EEG data under controlled conditions and study
 
 ---
 
+## Project links and evidence
+
+| Item | Link / Note |
+|---|---|
+| Repository | https://github.com/Mrudula-itsjuzme/EEG-Signal-Acquisition |
+| Paper / reference | Literature-review repository with multiple EEG acquisition and analysis references listed in project notes |
+| Demo video | Not uploaded yet |
+| Deployment | Not applicable; research-planning repository |
+| Dataset note | Planned participant EEG acquisition; no public dataset committed yet |
+| Result screenshots / reports | Add acquisition setup diagrams, protocol screenshots, and pilot-analysis plots after data collection begins |
+
+---
+
 ## Project goals
 
 - design an EEG signal acquisition workflow
